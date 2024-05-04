@@ -23,7 +23,7 @@ In particular, we consider
 
 .. math::
 
-    u_t(x,y) = 0.36 - (x - 0.5)^2 + (y - 0.5)^2 - 0.5\,.
+    u_t(x,y) = 0.36 - (x - 0.5)^2 + (y - 0.5)^2\,.
 
 Beside the empty set, the domain that minimizes this shape functional is a
 disc of radius :math:`0.6` centered at :math:`(0.5,0.5)`.
